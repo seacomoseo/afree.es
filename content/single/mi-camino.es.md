@@ -34,8 +34,8 @@ duo:
 
       Con el tiempo comprendí que muchas veces no necesitamos convertirnos en alguien diferente, sino recordar quiénes somos realmente. Descubrí que dentro de cada persona existe una sabiduría propia, una conexión con algo más grande que nos sostiene y nos guía cuando aprendemos a escucharla.
 
-  - bi: /u/africa/diosa-te-mira.jpg
-    rate: 3/2
+  - bi: /u/africa/diosa-te-mira-gold.jpg
+    rate: 16/9
   - md: |
       Mi camino espiritual me llevó a profundizar en la relación con Dios, con mi propia esencia y con la conciencia del amor como fuerza transformadora. Comprendí que la verdadera conexión espiritual no nos aleja de nuestra humanidad, sino que nos ayuda a habitarla con más presencia, amor y autenticidad.
 

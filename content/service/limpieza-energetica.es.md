@@ -5,7 +5,7 @@ title: Limpieza Energética
 seo:
   title: Limpieza Energética | Afree
   desc: Un espacio para liberar aquello que ya no necesitas sostener, recuperar tu equilibrio y volver a escuchar tu propia esencia.
-img: /u/otras/paisaje.jpg
+img: /u/otras/paisaje-energetico.jpg
 base: service
 service_types:
 - Limpieza Energética
@@ -20,7 +20,7 @@ duo:
   hanchor: Limpieza Energética Online
   title: Limpieza Energética
   sub: Recupera tu equilibrio. Vuelve a sentirte en paz.
-  bi: /u/otras/paisaje.jpg
+  bi: /u/otras/paisaje-energetico.jpg
   boxes:
   - bi: /u/africa/manos-en-pecho.jpg
   - md: |

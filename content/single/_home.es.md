@@ -115,7 +115,8 @@ org:
 
 duo:
   boxes:
-  - bi: /u/africa/01.jpg
+  - bi: /u/africa/calida.jpg
+    rate: 3/4
   - title: ¿Es este un espacio para ti?
     md: |
       Te acompaño a cuidar y proteger tu energía desde un enfoque práctico.
@@ -125,8 +126,9 @@ duo:
       En el caso de las mujeres, creo espacios para conectar con el cuerpo, comprender procesos emocionales vinculados al útero, liberar memorias del pasado y cultivar una relación más amorosa con esta parte de sí mismas.
 
       También acompaño a quienes sienten la llamada de expandir el corazón, vivir desde el amor y profundizar en su conexión espiritual.
+    align_y: center
 
-  - bi: /u/africa/luz.jpg
+  - bi: /u/africa/manos.webp
   - title: Quizás has llegado hasta aquí porque...
     md: |
       - ::adjust:: Te sientes agotada o agotado
@@ -137,7 +139,7 @@ duo:
       - ::adjust:: Intuyes que hay algo más
       - ::adjust:: Quieres profundizar en tu espiritualidad
 
-  - bi: /u/africa/manos.webp
+  - bi: /u/africa/diosa-atardecer.jpg
   - title: Lo que puedes empezar a experimentar durante este camino
     md: |
       - ::favorite:: Más energía en tu día a día

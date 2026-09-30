@@ -18,7 +18,7 @@ duo:
   sub: Consultar disponibilidad
   bi: /u/terapias/circulos-de-mujeres.jpg
   boxes:
-  - bi: /u/africa/ceremonia.jpg
+  - bi: /u/africa/ceremonia-mujeres.jpg
     rate: 3/4
   - title: Un espacio para recordar juntas quiénes somos
     md: |
