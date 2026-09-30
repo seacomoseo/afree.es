@@ -6,11 +6,6 @@ body {
   user-select: none;
 }
 
-// Video icon player
-[data-vid] ~ .icon {
-  @include fluid-size(margin-top, 1em, 3.5, 4);
-}
-
 // Hero
 @keyframes logo-intro {
   0%,
@@ -42,5 +37,17 @@ body {
   .box--2      { @include show-from(9); }
   .line {
     font-size: 3em;
+  }
+
+  // Video icon player
+  [data-vid] ~ .icon {
+    margin-top: -1em;
+  }
+}
+
+#body-service-limpieza-energetica {
+  // Video icon player
+  [data-vid] ~ .icon {
+    @include fluid-size(margin-top, 1em, 3.5, 4);
   }
 }
