@@ -36,7 +36,7 @@ duo:
 
       Porque cuando una mujer recuerda quién es, abre la puerta para que otras también puedan hacerlo.
 
-  - vid: https://youtu.be/5A151gJMd8g
+  - vid: https://youtu.be/5A151gJMd8g#poster=/u/africa/circulos-de-mujeres.jpg
     ratio: 9/16
   - title: ¿Qué trabajamos en los círculos?
     md: |

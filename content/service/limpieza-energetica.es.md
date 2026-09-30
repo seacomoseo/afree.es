@@ -76,7 +76,7 @@ duo:
 
         **La mayor protección no nace del miedo. Nace de recordar quién eres, fortalecer tu presencia y aprender a cuidar tu propia energía.**
 
-  - vid: https://youtu.be/mxUp2I0ESGc
+  - vid: https://youtu.be/mxUp2I0ESGc#poster=/u/africa/limpiezas-energeticas.jpg
     ratio: 9/16
     sub: La guía, la fuerza, el amor y la verdad siempre están en ti. <br><br> Mi labor consiste en acompañarte para que puedas recordarlo.
     align: center
