@@ -8,7 +8,7 @@ body {
 
 // Video icon player
 [data-vid] ~ .icon {
-  margin-top: 7em;
+  @include fluid-size(margin-top, 1em, 3.5, 4);
 }
 
 // Hero
