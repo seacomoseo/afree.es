@@ -71,7 +71,6 @@ cta:
     También cambia la forma en que caminamos juntas por el mundo.
 
     Entre todas creamos un espacio de apoyo, confianza y sostén donde el dolor puede transformarse en amor, el miedo en sabiduría y el olvido en el recuerdo de quienes realmente somos.
-    {.sub}
 
     [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
 ---
