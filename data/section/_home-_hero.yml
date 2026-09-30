@@ -2,20 +2,17 @@ name: Inicio
 color: light
 color_alpha: .25
 full: true
-pt: 3
-# size: md
+size: md
 div: fade
 boxes:
 - hanchor: Afree - Terapeuta Holística
   box:
-    cols: 1
-    gap: 5
+    cols: 2
     gap_vs: 3
     line: true
     align_y: center
   boxes:
-  - fit: 0.4
-    img: /u/base/icon-a.svg
+  - img: /u/base/icon-a.svg
     ratio: 3/2
     title: AFREE
     sub: Recuerda quién eres
@@ -23,7 +20,6 @@ boxes:
       Acompaño a las personas a recordar quiénes son, a habitarse desde el corazón y a vivir desde su autenticidad.
 
       [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
-  - fit: 0.4
-    img: /u/presentacion.jpg
-    vid: https://youtu.be/Jr3ZeZXIziI
-    ratio: 9/16
+  - img: /u/presentacion.jpg
+    vid: https://youtu.be/xAylvGvkaZg
+    ratio: 3/4
