@@ -1,6 +1,7 @@
 name: Inicio ➡️ Imagen de transición
+id: hero-next
 color: hide
-# bi: /u/fotos/diosa-entrando-al-mar.jpg
+# bi: /u/africa/diosa-entrando-al-mar.jpg
 # alpha: 0
 full: true
 div: fade

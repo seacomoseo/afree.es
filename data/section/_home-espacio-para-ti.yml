@@ -11,7 +11,7 @@ boxes:
     align_vl: left
     line: true
   boxes:
-  - bi: /u/fotos/01.jpg
+  - bi: /u/africa/01.jpg
   - title: ¿Es este un espacio para ti?
     md: |
       Te acompaño a cuidar y proteger tu energía desde un enfoque práctico.
@@ -22,7 +22,7 @@ boxes:
 
       También acompaño a quienes sienten la llamada de expandir el corazón, vivir desde el amor y profundizar en su conexión espiritual.
 
-  - bi: /u/fotos/afree-luz.jpg
+  - bi: /u/africa/luz.jpg
   - title: Quizás has llegado hasta aquí porque...
     md: |
       - Te sientes agotada o agotado
@@ -33,7 +33,7 @@ boxes:
       - Intuyes que hay algo más
       - Quieres profundizar en tu espiritualidad
 
-  - bi: /u/fotos/afree-manos.webp
+  - bi: /u/africa/manos.webp
   - title: Lo que puedes empezar a experimentar durante este camino
     md: |
       - ::favorite::   Más energía en tu día a día

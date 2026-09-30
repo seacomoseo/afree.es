@@ -4,7 +4,7 @@ title: Mi camino
 seo:
   title: Mi camino | Afree
   desc: Conoce el camino espiritual de África y su forma de acompañar procesos de reconexión, presencia y autenticidad.
-img: /u/fotos/afree-sintiendo.webp
+img: /u/africa/sintiendo.webp
 
 
 tpl:
@@ -16,10 +16,11 @@ tpl:
 duo:
   title: Mi camino espiritual
   sub: Recordar quién soy para acompañarte a recordar quién eres
-  bi: /u/fotos/afree-ser.webp
+  bi: /u/africa/ser.webp
   rate: 1/1
   boxes:
-  - bi: /u/fotos/afree-sintiendo.webp
+  - bi: /u/africa/sintiendo.webp
+    rate: 3/4
   - md: |
       Desde niña he sentido una profunda conexión con la vida, con lo invisible y con la dimensión espiritual del ser humano.
 
@@ -33,7 +34,8 @@ duo:
 
       Con el tiempo comprendí que muchas veces no necesitamos convertirnos en alguien diferente, sino recordar quiénes somos realmente. Descubrí que dentro de cada persona existe una sabiduría propia, una conexión con algo más grande que nos sostiene y nos guía cuando aprendemos a escucharla.
 
-  - bi: /u/fotos/03.jpg
+  - bi: /u/africa/diosa-te-mira.jpg
+    rate: 3/2
   - md: |
       Mi camino espiritual me llevó a profundizar en la relación con Dios, con mi propia esencia y con la conciencia del amor como fuerza transformadora. Comprendí que la verdadera conexión espiritual no nos aleja de nuestra humanidad, sino que nos ayuda a habitarla con más presencia, amor y autenticidad.
 

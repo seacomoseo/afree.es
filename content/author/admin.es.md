@@ -3,7 +3,7 @@ slug: afree
 title: Afree
 seo:
   desc: Activo tu sabiduría a través de la energía
-img: /u/fotos/diosa-te-mira-lg.jpg
+img: /u/africa/diosa-voltea.jpg
 alts:
 - Afree
 - África

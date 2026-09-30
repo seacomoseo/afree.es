@@ -18,7 +18,8 @@ duo:
   sub: Consultar disponibilidad
   bi: /u/terapias/circulos-de-mujeres.jpg
   boxes:
-  - bi: /u/fotos/afree-fluyendo-poster.webp
+  - bi: /u/africa/ceremonia.jpg
+    rate: 3/4
   - title: Un espacio para recordar juntas quiénes somos
     md: |
       Los círculos de mujeres son espacios de encuentro donde honramos la belleza de ser mujer y recordamos la fuerza, la sabiduría y el amor que habitan en cada una de nosotras.
@@ -35,19 +36,21 @@ duo:
 
       Porque cuando una mujer recuerda quién es, abre la puerta para que otras también puedan hacerlo.
 
-  - bi: /u/fotos/afree-ceremonia.jpg
+  - vid: https://youtu.be/5A151gJMd8g
+    ratio: 9/16
   - title: ¿Qué trabajamos en los círculos?
     md: |
       Cada encuentro es diferente, pero algunos de los temas que exploramos son:
 
-      - ::diversity_2:: La conexión con la niña interior
-      - ::diversity_2:: La ciclicidad femenina.
-      - ::diversity_2:: El útero y la memoria emocional.
-      - ::diversity_2:: La relación con el cuerpo.
-      - ::diversity_2:: La resignificación de la sexualidad.
-      - ::diversity_2:: El amor propio y los límites.
-      - ::diversity_2:: La liberación de memorias familiares y ancestrales.
-      - ::diversity_2:: La conexión con la intuición y la sabiduría femenina.
+      - ::favorite:: La conexión con la niña interior
+      - ::favorite:: La ciclicidad femenina.
+      - ::favorite:: El útero y la memoria emocional.
+      - ::favorite:: La relación con el cuerpo.
+      - ::favorite:: La resignificación de la sexualidad.
+      - ::favorite:: El amor propio y los límites.
+      - ::favorite:: La liberación de memorias familiares y ancestrales.
+      - ::favorite:: La conexión con la intuición y la sabiduría femenina.
+    align_y: center
 
 
 review: {}
@@ -67,7 +70,8 @@ cta:
 
     También cambia la forma en que caminamos juntas por el mundo.
 
-    > **Entre todas creamos un espacio de apoyo, confianza y sostén donde el dolor puede transformarse en amor, el miedo en sabiduría y el olvido en el recuerdo de quienes realmente somos.**
+    Entre todas creamos un espacio de apoyo, confianza y sostén donde el dolor puede transformarse en amor, el miedo en sabiduría y el olvido en el recuerdo de quienes realmente somos.
+    {.sub}
 
     [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
 ---

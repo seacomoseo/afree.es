@@ -21,7 +21,7 @@ duo:
   sub: Online / Presencial
   bi: /u/terapias/reiki.webp
   boxes:
-  - bi: /u/fotos/afree-luz.jpg
+  - bi: /u/africa/luz.jpg
   - title: Un encuentro con el amor que ya habita en ti
     md: |
       Hay momentos en la vida en los que sentimos la necesidad de volver al corazón, de encontrar paz, claridad y recordar quiénes somos más allá del ruido, el miedo o las heridas.
@@ -34,7 +34,7 @@ duo:
 
       [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
 
-  - bi: /u/fotos/afree-manos.webp
+  - bi: /u/africa/manos.webp
   - title: El camino del Cristo
     md: |
       Para mí, Jesús vino a mostrarnos que la Divinidad no es algo separado de nosotros.
@@ -47,7 +47,11 @@ duo:
 
       Ese es el camino del Cristo.
 
-  - bi: /u/fotos/afree-fluyendo-poster.webp
+  - bi: /u/otras/cristo.jpg
+    ratio: 1/1
+    # sub: Príncipe de la paz
+  # - md: |
+  #     ![](/u/otras/cristo.jpg "Príncipe de la paz")
   - title: ¿Cómo es una sesión?
     md: |
       Durante la sesión acompaño la apertura de un espacio de silencio, presencia y profunda conexión interior.
@@ -57,8 +61,9 @@ duo:
       Muchas personas experimentan una profunda sensación de paz, expansión del corazón y una conexión más clara con su propia esencia.
 
       Cada sesión es única y respeta el momento vital de quien la recibe.
+    align_y: center
 
-  - bi: /u/fotos/afree-autoabrazo.jpg
+  - img: /u/africa/08.jpg
   - title: Mi forma de acompañar
     md: |
       Entiendo el Cristo no solo como una figura histórica, sino como un estado de conciencia al que todos podemos acceder.
@@ -70,19 +75,20 @@ duo:
       No se trata de que yo haga algo por ti.
 
       Se trata de crear un espacio donde puedas volver a reconocerte.
+    align_y: center
 
-  - bi: /u/fotos/afree-naturaleza-poster.webp
+  - bi: /u/otras/paloma.jpg
   - title: Lo que muchas personas experimentan
     md: |
-      - ::⚜:: Una profunda sensación de paz.
-      - ::⚜:: Apertura del corazón.
-      - ::⚜:: Mayor conexión con Dios.
-      - ::⚜:: Claridad interior.
-      - ::⚜:: Amor hacia sí mismas.
-      - ::⚜:: Presencia.
-      - ::⚜:: Confianza.
-      - ::⚜:: Reconexión con su esencia.
-      - ::⚜:: Mayor serenidad.
+      - ::svg:flor_lis:: Una profunda sensación de paz.
+      - ::svg:flor_lis:: Apertura del corazón.
+      - ::svg:flor_lis:: Mayor conexión con Dios.
+      - ::svg:flor_lis:: Claridad interior.
+      - ::svg:flor_lis:: Amor hacia sí mismas.
+      - ::svg:flor_lis:: Presencia.
+      - ::svg:flor_lis:: Confianza.
+      - ::svg:flor_lis:: Reconexión con su esencia.
+      - ::svg:flor_lis:: Mayor serenidad.
 
 
 review:

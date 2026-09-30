@@ -5,7 +5,7 @@ title: Limpieza Energética
 seo:
   title: Limpieza Energética | Afree
   desc: Un espacio para liberar aquello que ya no necesitas sostener, recuperar tu equilibrio y volver a escuchar tu propia esencia.
-img: /u/terapias/limpiezas-energeticas.jpg
+img: /u/otras/paisaje.jpg
 base: service
 service_types:
 - Limpieza Energética
@@ -20,9 +20,9 @@ duo:
   hanchor: Limpieza Energética Online
   title: Limpieza Energética
   sub: Recupera tu equilibrio. Vuelve a sentirte en paz.
-  bi: /u/terapias/limpiezas-energeticas.jpg
+  bi: /u/otras/paisaje.jpg
   boxes:
-  - bi: /u/fotos/manos-en-pecho.jpg
+  - bi: /u/africa/manos-en-pecho.jpg
   - md: |
       A veces no sabemos explicar qué nos ocurre. Solo sentimos que estamos más cansados de lo habitual, que la mente no descansa, que nos cuesta sostener nuestras emociones o que hemos perdido la conexión con nosotros mismos.
 
@@ -30,51 +30,57 @@ duo:
 
       [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
 
-  - bi: /u/fotos/afree-tambor-chamanico-poster.webp
+  - bi: /u/otras/inciensos.jpg
+    rate: 1/1
   - title: ¿Es este acompañamiento para ti?
     md: |
       Quizás has llegado hasta aquí porque...
 
-      - Te sientes agotada/o sin una causa aparente.
-      - Tu mente no descansa.
-      - Has vivido una separación, un duelo o un cambio importante.
-      - Sientes que cargas emociones que no son tuyas.
-      - Has perdido la conexión contigo.
-      - Hay situaciones que se repiten una y otra vez en tu vida.
-      - Sientes que ha llegado el momento de cerrar una etapa.
-      - Deseas recuperar claridad, paz y presencia.
+      - ::adjust:: Te sientes agotada/o sin una causa aparente.
+      - ::adjust:: Tu mente no descansa.
+      - ::adjust:: Has vivido una separación, un duelo o un cambio importante.
+      - ::adjust:: Sientes que cargas emociones que no son tuyas.
+      - ::adjust:: Has perdido la conexión contigo.
+      - ::adjust:: Hay situaciones que se repiten una y otra vez en tu vida.
+      - ::adjust:: Sientes que ha llegado el momento de cerrar una etapa.
+      - ::adjust:: Deseas recuperar claridad, paz y presencia.
 
-  - bi: /u/fotos/afree-fluyendo-poster.webp
-  - title: Lo que muchas personas empiezan a experimentar
-    md: |
-      - ::star_shine:: Más energía.
-      - ::star_shine:: Sensación de ligereza.
-      - ::star_shine:: Mayor claridad mental.
-      - ::star_shine:: Reducción del ruido interno.
-      - ::star_shine:: Más calma emocional.
-      - ::star_shine:: Mejor descanso.
-      - ::star_shine:: Conexión con su intuición.
-      - ::star_shine:: Más presencia.
-      - ::star_shine:: Mayor confianza en sí mismas.
-      - ::star_shine:: Recuperación del equilibrio interior.
+  - bi: /u/africa/elonga.jpg
+    rate: 9/16
+  - box:
+      gap: 4
+      gap_vs: 3
+    boxes:
+    - title: Lo que muchas personas empiezan a experimentar
+      md: |
+        - ::svg:flor_lis:: Más energía.
+        - ::svg:flor_lis:: Sensación de ligereza.
+        - ::svg:flor_lis:: Mayor claridad mental.
+        - ::svg:flor_lis:: Reducción del ruido interno.
+        - ::svg:flor_lis:: Más calma emocional.
+        - ::svg:flor_lis:: Mejor descanso.
+        - ::svg:flor_lis:: Conexión con su intuición.
+        - ::svg:flor_lis:: Más presencia.
+        - ::svg:flor_lis:: Mayor confianza en sí mismas.
+        - ::svg:flor_lis:: Recuperación del equilibrio interior.
 
-  - bi: /u/fotos/afree-manos.webp
-  - title: Mi forma de entender una limpieza energética
-    md: |
-      No creo que haya nada que reparar en ti.
+    # - bi: /u/africa/02.jpg
+    #   rate: 3/4
+    - title: Mi forma de entender una limpieza energética
+      md: |
+        No creo que haya nada que reparar en ti.
 
-      Creo que, en ocasiones, acumulamos experiencias, emociones o cargas que nos alejan de nuestra propia esencia.
+        Creo que, en ocasiones, acumulamos experiencias, emociones o cargas que nos alejan de nuestra propia esencia.
 
-      Mi labor consiste en acompañarte a liberar aquello que ya no necesitas sostener para que puedas volver a escucharte y recuperar tu propia fuerza.
+        Mi labor consiste en acompañarte a liberar aquello que ya no necesitas sostener para que puedas volver a escucharte y recuperar tu propia fuerza.
 
-      **La mayor protección no nace del miedo. Nace de recordar quién eres, fortalecer tu presencia y aprender a cuidar tu propia energía.**
+        **La mayor protección no nace del miedo. Nace de recordar quién eres, fortalecer tu presencia y aprender a cuidar tu propia energía.**
 
   - vid: https://youtu.be/mxUp2I0ESGc
     ratio: 9/16
-    md: |
-      > La guía, la fuerza, el amor y la verdad siempre están en ti.
-      >
-      > Mi labor consiste en acompañarte para que puedas recordarlo.
+    sub: La guía, la fuerza, el amor y la verdad siempre están en ti. <br><br> Mi labor consiste en acompañarte para que puedas recordarlo.
+    align: center
+    align_vl: center
     align_y: center
   - title: ¿Cómo puedo acompañarte?
     md: |

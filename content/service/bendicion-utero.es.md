@@ -21,34 +21,39 @@ duo:
   sub: Online y presencial (consultar disponibilidad)
   bi: /u/terapias/sanacion-utero.jpg
   boxes:
-  - bi: /u/fotos/afree-ceremonia.jpg
-  - md: |
-      > Un espacio para volver a habitarte como mujer.
+  - bi: /u/africa/fluyendo.jpg
+    rate: 2/3
+  - box:
+      gap: 4
+      gap_vs: 3
+    boxes:
+    - sub: Un espacio para volver a habitarte como mujer.
+      md: |
+        A lo largo de la vida muchas mujeres aprendemos a desconectarnos de nuestro cuerpo.
 
-      A lo largo de la vida muchas mujeres aprendemos a desconectarnos de nuestro cuerpo.
+        Las prisas, las exigencias, las heridas, las relaciones, el miedo o el dolor pueden hacer que dejemos de escucharnos.
 
-      Las prisas, las exigencias, las heridas, las relaciones, el miedo o el dolor pueden hacer que dejemos de escucharnos.
+        La Bendición de Útero es una invitación a volver a ti.
 
-      La Bendición de Útero es una invitación a volver a ti.
+        A recordar que tu cuerpo no es un lugar del que escapar, sino un hogar al que regresar.
 
-      A recordar que tu cuerpo no es un lugar del que escapar, sino un hogar al que regresar.
+        [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
+    #   align_y: center
 
-      [[::brand:whatsapp:: Reserva  tu sesión]](https://wa.me/34613326230 "[nofollow ga4]")
+    # - bi: /u/otras/flor.jpg
+    - title: La energía femenina
+      md: |
+        La energía femenina no pertenece solo a las mujeres. Es una cualidad presente en todos los seres humanos y representa nuestra capacidad para sentir, escuchar, crear y percibir aquello que no siempre puede explicarse con palabras.
 
-  - bi: /u/fotos/08.jpg
-  - title: La energía femenina
-    md: |
-      La energía femenina no pertenece solo a las mujeres. Es una cualidad presente en todos los seres humanos y representa nuestra capacidad para sentir, escuchar, crear y percibir aquello que no siempre puede explicarse con palabras.
+        En las mujeres, esta energía está profundamente vinculada al cuerpo y a los ciclos naturales.
 
-      En las mujeres, esta energía está profundamente vinculada al cuerpo y a los ciclos naturales.
+        Cuando recuperamos el tiempo para escucharnos, comenzamos a comprender nuestras emociones, nuestra intuición y nuestra propia sabiduría.
 
-      Cuando recuperamos el tiempo para escucharnos, comenzamos a comprender nuestras emociones, nuestra intuición y nuestra propia sabiduría.
+        Volver a la energía femenina no significa hacer más.
 
-      Volver a la energía femenina no significa hacer más.
+        Significa aprender a habitar la vida con más presencia.
 
-      Significa aprender a habitar la vida con más presencia.
-
-  - bi: /u/fotos/10.jpg
+  - bi: /u/africa/10.jpg
   - title: Recordar que somos mujeres cíclicas
     md: |
       El cuerpo femenino cambia constantemente.
@@ -65,7 +70,7 @@ duo:
 
       Y a reconocer la sabiduría que vive en nuestro cuerpo.
 
-  - bi: /u/fotos/03.jpg
+  - bi: /u/otras/utero-hoja.jpg
   - title: ¿Qué es la Bendición de Útero?
     md: |
       La Bendición de Útero es un acompañamiento energético y consciente que invita a reconectar con la memoria profunda de tu feminidad.
@@ -80,32 +85,34 @@ duo:
 
       **Conectar con el útero es volver a la raíz, recordar la medicina que cada mujer lleva dentro, honrar sus tiempos, abrirse al placer de habitar la propia vida y expresar con libertad aquello que ha venido a crear en el mundo.**
 
-  - bi: /u/fotos/01.jpg
+  - bi: /u/africa/bendicion.jpg
   - title: ¿Es este acompañamiento para ti?
     md: |
       Quizás has llegado hasta aquí porque...
 
-      - ::favorite:: Sientes que te has desconectado de tu cuerpo.
-      - ::favorite:: Te cuesta escucharte.
-      - ::favorite:: Has vivido relaciones que todavía pesan en ti.
-      - ::favorite:: Quieres reconciliarte con tu feminidad.
-      - ::favorite:: Deseas comprender mejor tus emociones.
-      - ::favorite:: Estás preparándote para la maternidad.
-      - ::favorite:: Intuyes que ha llegado el momento de volver a ti.
+      - ::adjust:: Sientes que te has desconectado de tu cuerpo.
+      - ::adjust:: Te cuesta escucharte.
+      - ::adjust:: Has vivido relaciones que todavía pesan en ti.
+      - ::adjust:: Quieres reconciliarte con tu feminidad.
+      - ::adjust:: Deseas comprender mejor tus emociones.
+      - ::adjust:: Estás preparándote para la maternidad.
+      - ::adjust:: Intuyes que ha llegado el momento de volver a ti.
 
-  - bi: /u/fotos/09.jpg
+  - bi: /u/otras/leona.jpg
+    rate: 1/1
   - title: Lo que muchas mujeres experimentan
     md: |
-      - ::star_shine:: Más conexión con su cuerpo.
-      - ::star_shine:: Más calma.
-      - ::star_shine:: Mayor autoestima.
-      - ::star_shine:: Comprensión de sus emociones.
-      - ::star_shine:: Más confianza en su intuición.
-      - ::star_shine:: Paz con su historia.
-      - ::star_shine:: Sensación de ligereza.
-      - ::star_shine:: Una relación más amorosa con su feminidad.
+      - ::svg:flor_lis:: Más conexión con su cuerpo.
+      - ::svg:flor_lis:: Más calma.
+      - ::svg:flor_lis:: Mayor autoestima.
+      - ::svg:flor_lis:: Comprensión de sus emociones.
+      - ::svg:flor_lis:: Más confianza en su intuición.
+      - ::svg:flor_lis:: Paz con su historia.
+      - ::svg:flor_lis:: Sensación de ligereza.
+      - ::svg:flor_lis:: Una relación más amorosa con su feminidad.
+    align_y: center
 
-  - bi: /u/fotos/07.jpg
+  - bi: /u/africa/09.jpg
   - title: Mi forma de acompañar
     md: |
       Creo profundamente que el útero no solo participa en la creación de la vida.

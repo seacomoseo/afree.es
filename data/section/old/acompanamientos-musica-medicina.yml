@@ -17,7 +17,7 @@ boxes:
     cols: 5
   boxes:
   - fit: 2
-    img: /u/fotos/02.jpg
+    img: /u/africa/02.jpg
     ratio: 9/16
   - fit: 5
     order: -1

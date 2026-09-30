@@ -6,10 +6,9 @@ body {
   user-select: none;
 }
 
-// Afree uses a quiet horizontal rule between sections instead of decorative
-// SVG dividers.
-.section + .section {
-  border-top: 1px solid rgba($main, .16);
+// Video icon player
+[data-vid] ~ .icon {
+  margin-top: 7em;
 }
 
 // Hero
@@ -44,57 +43,4 @@ body {
   .line {
     font-size: 3em;
   }
-  [data-vid] ~ .icon {
-    margin-top: 7em;
-    // @include mixins.fluid-size(margin-top, 1em, 6, 9);
-  }
 }
-#body-home #imagen-de-transicion {
-  filter: none;
-}
-
-// @keyframes soul {
-//   100% {
-//     transform: translateY(-2em);
-//     // opacity: .75;
-//     filter:
-//       drop-shadow(0 2rem .5rem rgba($black, .15))
-//       drop-shadow(0 .5em .5rem $white) 
-//       drop-shadow(0 0 5rem $main)
-//       ;
-//   }
-// }
-
-// #contacto {
-//   .link__data > * {
-//     flex-grow: 0;
-//   }
-//   // .box--1
-//   // .shadow {
-//   //   animation: soul 1s 0s both infinite alternate ease-in-out;
-//   // }
-// }
-
-// #body-constelaciones-familiares
-// #hero {
-//   .box--2
-//   .md {
-//     gap: 2em;
-//     @media (min-width: -md) {
-//       columns: 2;
-//     }
-//   }
-//   :is(
-//     .box--3,
-//     .box--4
-//   )
-//   .md {
-//     gap: 2em;
-//     @media (min-width: -md) {
-//       columns: 2;
-//     }
-//     @media (min-width: -xl) {
-//       columns: 3;
-//     }
-//   }
-// }

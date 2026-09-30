@@ -5,6 +5,7 @@ get:
   to: size
 boxes:
 - align: center
+  caps: false
   get:
   - from: cta.title
     to: title

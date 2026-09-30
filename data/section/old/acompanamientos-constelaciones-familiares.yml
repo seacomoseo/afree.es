@@ -17,7 +17,7 @@ boxes:
     align: left
   boxes:
   - fit: 1
-    img: /u/fotos/03.jpg
+    img: /u/africa/03.jpg
     ratio: 2/3
   - fit: 2
     md: |

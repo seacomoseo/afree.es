@@ -11,13 +11,13 @@ get:
 boxes:
 - caps: false
   box:
-    duo: 1
+    duo: 2
     gap: 5
     pd: 3
     pd_vs: 1.5
     sides: true
     scroll: soft
-    rate: 3/2
+    rate: 4/3
     align: left
     align_vl: left
     line: true

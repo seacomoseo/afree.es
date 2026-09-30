@@ -9,7 +9,7 @@ img: /u/base/poster.svg
 
 tpl:
   bg:
-    bi: /u/fotos/diosa-entrando-al-mar.jpg
+    bi: /u/africa/diosa-entrando-al-mar.jpg
     scroll: fix
   menu:
     logo: false
@@ -56,11 +56,11 @@ org:
   mail: afree.recuerda@gmail.com
   logo: /u/base/poster.svg
   imgs:
-  - /u/fotos/diosa-te-mira.jpg
-  - /u/fotos/diosa-entrando-al-mar.jpg
-  - /u/fotos/afree-ser.webp
-  - /u/fotos/afree-sintiendo.webp
-  - /u/fotos/afree-manos.webp
+  - /u/africa/diosa-voltea.jpg
+  - /u/africa/diosa-entrando-al-mar.jpg
+  - /u/africa/ser.webp
+  - /u/africa/sintiendo.webp
+  - /u/africa/manos.webp
   - /u/terapias/limpiezas-energeticas.jpg
   - /u/terapias/circulos-de-mujeres.jpg
   - /u/terapias/sanacion-utero.jpg
@@ -115,7 +115,7 @@ org:
 
 duo:
   boxes:
-  - bi: /u/fotos/01.jpg
+  - bi: /u/africa/01.jpg
   - title: ¿Es este un espacio para ti?
     md: |
       Te acompaño a cuidar y proteger tu energía desde un enfoque práctico.
@@ -126,30 +126,30 @@ duo:
 
       También acompaño a quienes sienten la llamada de expandir el corazón, vivir desde el amor y profundizar en su conexión espiritual.
 
-  - bi: /u/fotos/afree-luz.jpg
+  - bi: /u/africa/luz.jpg
   - title: Quizás has llegado hasta aquí porque...
     md: |
-      - Te sientes agotada o agotado
-      - Tu mente no descansa
-      - Estás atravesando un momento importante
-      - Sientes que te has desconectado de ti.
-      - Sientes que ha llegado el momento de volver a ti
-      - Intuyes que hay algo más
-      - Quieres profundizar en tu espiritualidad
+      - ::adjust:: Te sientes agotada o agotado
+      - ::adjust:: Tu mente no descansa
+      - ::adjust:: Estás atravesando un momento importante
+      - ::adjust:: Sientes que te has desconectado de ti.
+      - ::adjust:: Sientes que ha llegado el momento de volver a ti
+      - ::adjust:: Intuyes que hay algo más
+      - ::adjust:: Quieres profundizar en tu espiritualidad
 
-  - bi: /u/fotos/afree-manos.webp
+  - bi: /u/africa/manos.webp
   - title: Lo que puedes empezar a experimentar durante este camino
     md: |
-      - ::favorite::   Más energía en tu día a día
-      - ::star_shine:: Mayor claridad
-      - ::favorite::   Mejor descanso
-      - ::star_shine:: Reducción del ruido mental
-      - ::favorite::   Más confianza en ti misma/o
-      - ::star_shine:: Comprensión de tus emociones
-      - ::favorite::   Conexión con tu intuición
-      - ::star_shine:: Paz en el corazón
-      - ::favorite::   Presencia
-      - ::star_shine:: Capacidad para sostenerte desde tu centro
+      - ::favorite:: Más energía en tu día a día
+      - ::favorite:: Mayor claridad
+      - ::favorite:: Mejor descanso
+      - ::favorite:: Reducción del ruido mental
+      - ::favorite:: Más confianza en ti misma/o
+      - ::favorite:: Comprensión de tus emociones
+      - ::favorite:: Conexión con tu intuición
+      - ::favorite:: Paz en el corazón
+      - ::favorite:: Presencia
+      - ::favorite:: Capacidad para sostenerte desde tu centro
 
 review:
   sub: Historias de quienes ya han caminado conmigo
